@@ -1,0 +1,6 @@
+[submodule "NWL-CONNECT-REACTJS"]
+	path = NWL-CONNECT-REACTJS
+	url = https://github.com/Lukatonnyf/NWL-CONNECT-REACTJS.git
+[submodule "web/NWL-CONNECT-REACTJS"]
+	path = web/NWL-CONNECT-REACTJS
+	url = https://github.com/Lukatonnyf/NWL-CONNECT-REACTJS.git
